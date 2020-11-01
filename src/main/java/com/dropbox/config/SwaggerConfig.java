@@ -27,8 +27,8 @@ public class SwaggerConfig {
 
     private ApiInfo metadata() {
         return new ApiInfoBuilder()
-                .title("Drop Box")
-                .description("Drop Box documentation")
+                .title("FTP Services")
+                .description("Ftp Services documentation")
                 .version("1.0.0")
                 .build();
     }
